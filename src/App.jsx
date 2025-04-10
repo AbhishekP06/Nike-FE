@@ -5,13 +5,13 @@ import Collection from './pages/Collection'
 import Product from './pages/Product'
 import Cart from './pages/Cart'
 import OrderSummary from './pages/OrderSummary'
-import NavBar from './components/NavBar'
+import Navbar from './components/Navbar'
 
 function App() {
 
   return (
     <>
-    <NavBar />
+    <Navbar />
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/collection' element={<Collection />} />
