@@ -7,7 +7,7 @@ const Navbar = () => {
 
     return (
         <div className='flex items-center justify-between py-5 px-6 font-medium'>
-            <NavLink to='/'><img className='w-24 pl-6' src="/src/assets/nike-logo.png" alt="Nike Logo" /></NavLink>
+            <NavLink to='/'><img className='w-24 pl-6' src="/nike-logo.png" alt="Nike Logo" /></NavLink>
 
             <ul className='list-block hidden sm:flex gap-7 text-sm text-black'>
                 <NavLink to='/collection' className='flex flex-col items-center gap-1'>
