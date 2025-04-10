@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import "tailwindcss";
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+:root::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+:root {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+p {
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+
+.list-block {
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+
+.h1-block {
+    font-family: "Bebas Neue", serif;
+    font-weight: 600;
+}
+
+.para-block {
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+
+.shoe-card {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+}
+
+.cards::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+    /* IE and Edge */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari and Opera */
+}

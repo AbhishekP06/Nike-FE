@@ -1,0 +1,26 @@
+[
+    {
+      "shoeType": "DUNKS",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a6bacf33-44ca-432e-b307-4a25002d798f/NIKE+DUNK+LOW+RETRO+SE.png"
+    },
+    {
+      "shoeType": "AIR FORCE 1",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/87d466f5-d55b-43b1-ae83-b040e3ee306c/AIR+FORCE+1+%2707.png"
+    },
+    {
+      "shoeType": "AIR JORDAN 1",
+      "image": "https://static.nike.com/a/images/w_1280,q_auto,f_auto/5b2c7d22-de62-44e2-a942-264dbf1f48bd/air-jordan-1-low-premium-sail-and-yellow-ochre-hv4511-133-release-date.jpg"
+    },
+    {
+      "shoeType": "KILLSHOT",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0dcd0d7-ca8e-400a-b5c4-59c419dac14f/W+KILLSHOT+2.png"
+    },
+    {
+      "shoeType": "CORTEZ",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d38b3f5-3365-4770-a178-22de3376304b/NIKE+CORTEZ.png"
+    },
+    {
+      "shoeType": "PEGASUS",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/12f0bbe7-1d4e-4e81-b8e1-b1a5c6874204/NIKE+REACTX+PEGASUS+TRAIL+5.png"
+    }
+]
